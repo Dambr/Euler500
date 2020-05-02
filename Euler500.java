@@ -1,8 +1,8 @@
-import java.math.*;
+import java.math.BigInteger;
 import java.util.ArrayList;
 
 
-public class Main {
+public class Euler500 {
     /**
      * Функция возведения большого числа в степень
      *
